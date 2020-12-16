@@ -9,5 +9,6 @@
 ### 💼 Where I am currently working at/as
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
 - [Reunited Gaming: Part-Time Developer](https://www.reunitedgaming.nn.pe/forums/)
+- [Minerva Servers: Founder and Lead Developer](https://www.minerva.pw/)
 
 ![Bilwin's Github Stats](https://github-readme-stats.vercel.app/api?username=bilwin&show_icons=true&theme=radical)
