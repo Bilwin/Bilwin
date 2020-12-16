@@ -1,4 +1,4 @@
-<h1 align='center'> Welcome to the my GitHub profile! 👋</h1>
+<h1 align="center"> Welcome to the my GitHub profile! 👋</h1>
 
 ### 📫 My contacts:
 - Discord: Bilwin#4761 <br>
