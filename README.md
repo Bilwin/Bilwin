@@ -12,11 +12,11 @@
 - [Minerva Servers: Founder and Lead Developer](https://www.minerva.pw/)
 
 <a href="https://github.com/bilwin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bilwin&show_icons=true&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilwin&show_icons=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/bilwin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bilwin&repo=helix-plugins&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bilwin&repo=helix-plugins&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/bilwin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilwin&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilwin&layout=compact&theme=radical" />
 </a>
