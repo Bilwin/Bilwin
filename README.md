@@ -12,3 +12,4 @@
 - [Minerva Servers: Founder and Lead Developer](https://www.minerva.pw/)
 
 ![Bilwin's Github Stats](https://github-readme-stats.vercel.app/api?username=bilwin&show_icons=true&theme=radical)
+![Bilwin's Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=bilwin&repo=helix-plugins&theme=radical)
