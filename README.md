@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilwin&show_icons=true&theme=radical&layout=compact" />
 </a>
 <br>
-<a href="https://github.com/bilwin">
+<a href="https://github.com/Bilwin/helix-plugins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bilwin&repo=helix-plugins&theme=radical&layout=compact" />
 </a>
 <br>
