@@ -6,6 +6,8 @@
 - Steam: https://steamcommunity.com/id/bilwin/ <br>
 - Telegram: https://t.me/bilwin <br>
 
+---
+
 ### 💼 Where I am currently working at/as
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
 - [Reunited Gaming: Part-Time Developer](https://www.reunitedgaming.nn.pe/forums/) :heart:
