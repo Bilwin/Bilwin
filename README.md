@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub profile! 👋</h1>
 
-### 📫 My contacts:
+### 📫 My contacts
 - Discord: Bilwin#7777 <br>
 - E-Mail: bilwin780@gmail.com <br>
 - Steam: https://steamcommunity.com/id/bilwin/ <br>
