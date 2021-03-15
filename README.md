@@ -12,7 +12,7 @@
 - [Reunited Gaming: Full-Time Developer & Community Contributor](https://www.reunitedgaming.nn.pe/forums/) :heart:
 - [Minerva Servers: Lead Developer & Founder](https://www.minerva.pw/)
 - [Extension Community: Support Developer](https://discord.gg/8gBwzAhTZt)
-- 
+
 ### 💼 Where I worked
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
 - [Overlord Community: Part-Time Developer](https://discord.gg/FAR8S7Ubs5)
