@@ -15,4 +15,4 @@
 
 ### 💼 Where I worked
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
-- [Overlord Community: Part-Time Developer](https://discord.gg/FAR8S7Ubs5) [Source Code](https://github.com/Zike-OC/Overlord-Community-Schema)
+- [Overlord Community: Part-Time Developer](https://discord.gg/FAR8S7Ubs5) | [Source Code](https://github.com/Zike-OC/Overlord-Community-Schema)
