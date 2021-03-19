@@ -11,7 +11,7 @@
 ### 💼 Where I am currently working at/as
 - [Reunited Gaming: Full-Time Developer](https://www.reunitedgaming.nn.pe/forums/)
 - [Minerva Servers: Lead Developer & Founder](https://www.minerva.pw/)
-- [Overlord Community: Support Developer](https://discord.gg/FAR8S7Ubs5)
+- [Archangel Community: Support Developer](https://discord.gg/FAR8S7Ubs5)
 
 ### 💼 Where I worked
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
