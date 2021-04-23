@@ -5,6 +5,7 @@
 - E-Mail: bilwin780@gmail.com <br>
 - Steam: https://steamcommunity.com/id/bilwin/ <br>
 - Telegram: https://t.me/bilwin <br>
+- YouTube: https://vk.cc/c1fIiK <br>
 
 ---
 
