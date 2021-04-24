@@ -13,6 +13,7 @@
 - [Minerva Servers: Lead Developer & Founder](https://www.minerva.pw/)
 - [Reunited Gaming: Full-Time Developer](https://www.reunitedgaming.nn.pe/forums/)
 - [TPTD "Dawn of the Corporation": Part-Time Developer](https://discord.gg/gHKKDZmq5G)
+- [gmod.delta: Part-Time Developer]
 
 ### 💼 Where I worked
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
