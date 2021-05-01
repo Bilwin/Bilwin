@@ -17,3 +17,4 @@
 
 ### 💼 Where I worked
 - [Lite Network: Part-Time Developer](http://www.lite-network.de/)
+- [The Alium: Part-Time Idea Developer](https://steamcommunity.com/groups/thealium)
