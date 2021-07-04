@@ -25,6 +25,7 @@
 <br>
 
 ---
+
 ### 💼 Where I am currently working at/as
 - [Minerva Servers: Lead Developer & Founder](https://www.minerva.pw/)
 - [Reunited Gaming: Full-Time Developer](https://www.reunitedgaming.nn.pe/forums/)
