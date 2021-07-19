@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub profile! 👋</h1>
 
-### 📫 My contacts
+# 📫 My contacts
 - Discord: Bilwin#7777 <br>
 - E-Mail: bilwin780@gmail.com <br>
 - Steam: https://steamcommunity.com/id/bilwin/ <br>
@@ -25,20 +25,37 @@
 <br>
 <br>
 
----
+# 💼 Projects
+- [The Alium](https://steamcommunity.com/groups/thealium)
+  - Head developing gamemodes such as:
+    - Classic Jailbreak
+    - Classic Breach (Private)
+    - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
 
-### 💼 Where I am currently working at/as
-- [Minerva Servers: Lead Developer & Founder](https://www.minerva.pw/)
-- [Reunited Gaming: Full-Time Developer](https://www.reunitedgaming.nn.pe/forums/)
-- [TPTD "Dawn of the Corporation": Part-Time Developer](https://discord.gg/gHKKDZmq5G)
+- [Lite Network](http://www.lite-network.de/)
+  - Development of all security systems, such as blocking the Client-Sided Lua injections
+  - Development of medical systems, diseases, UI/UX interfaces
 
-### 💼 Where I worked
-- [Werwolf Gaming HLRP: Plugin Developer & Maintainer](https://steamcommunity.com/groups/werwolfgaming)
-- [The Alium: Part-Time Idea Developer](https://steamcommunity.com/groups/thealium)
-- gmod.delta: Part-Time Developer
-- [Lite Network: Part-Time Developer](http://www.lite-network.de/)
 - [Runaway 17](https://github.com/Bilwin/Runaway-17)
+  - Head developer, organising work with other developers and developing modules for SE 2013
 
-### ✂️ My works
-- [rp_rg_city34_v1 (Map for Reunited Gaming)](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
+- [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
+  - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
+    - Modules for Advanced Medical System
+    - User Interface
+    - Gas zones
+    - Reworked engine functions using debug.getregistry
+    - And a lot of small scripts/plugins
+
+- [Minerva Servers](https://minerva.pw)
+  - Founder
+
+- [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
+
+# 🔑 Contributions
+- gmod.delta
+  - Coordination/Organisation of further developments
+
+- [Werwolf Gaming HLRP](https://steamcommunity.com/groups/werwolfgaming)
+  - The head development of the Advanced Medical System (AMS) plugin, designed specifically for Werwolf Gaming
