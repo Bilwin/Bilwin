@@ -47,7 +47,7 @@
     - Reworked engine functions using debug.getregistry
     - And a lot of small scripts/plugins
 
-- [Minerva Servers](https://minerva.pw)
+- [Renewed Networks](https://discord.gg/8zXbcQx)
   - Founder
 
 - [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
