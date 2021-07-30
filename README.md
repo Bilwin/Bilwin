@@ -31,6 +31,7 @@
     - Classic Jailbreak
     - Classic Breach (Private)
     - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
+    - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
 
 - [Lite Network](http://www.lite-network.de/)
   - Development of all security systems, such as blocking the Client-Sided Lua injections
