@@ -49,7 +49,7 @@
     - And a lot of small scripts/plugins
 
 - [Renewed Networks](https://discord.gg/8zXbcQx)
-  - Founder
+  - Founder, Head Developer
 
 - [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
