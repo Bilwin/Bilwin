@@ -51,6 +51,9 @@
 - [Renewed Networks](https://discord.gg/8zXbcQx)
   - Founder, Head Developer
 
+- [SV HL2 RP](https://vk.com/sv_servers)
+  - Plugins developer, such as Civil Protection systems (PT, Assigning/Recruiting, Squads, PDA's and etc.)
+
 - [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 
