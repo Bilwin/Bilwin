@@ -40,6 +40,9 @@
 - [Runaway 17](https://github.com/Bilwin/Runaway-17)
   - Head developer, organising work with other developers and developing modules for SE 2013
 
+- [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
+  - UI developing
+
 - [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
   - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
     - Modules for Advanced Medical System
