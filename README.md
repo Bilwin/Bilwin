@@ -73,3 +73,6 @@
 
 - [Werwolf Gaming HLRP](https://steamcommunity.com/groups/werwolfgaming)
   - The head development of the Advanced Medical System (AMS) plugin, designed specifically for Werwolf Gaming
+
+- [Affiliation Networks](https://discord.gg/4MP87tVHWg)
+  - Code assist, plugins contribution
