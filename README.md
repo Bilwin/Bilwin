@@ -33,15 +33,8 @@
     - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
     - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
 
-- [Lite Network](http://www.lite-network.de/)
-  - Development of all security systems, such as blocking the Client-Sided Lua injections
-  - Development of medical systems, diseases, UI/UX interfaces
-
 - [Runaway 17](https://github.com/Bilwin/Runaway-17)
   - Head developer, organising work with other developers and developing modules for SE 2013
-
-- [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
-  - UI developing
 
 - [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
   - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
@@ -76,3 +69,10 @@
 
 - [Affiliation Networks](https://discord.gg/4MP87tVHWg)
   - Code assist, plugins contribution
+
+- [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
+  - Few scripts
+
+- [Lite Network](http://www.lite-network.de/)
+  - Development of all security systems, such as blocking the Client-Sided Lua injections
+  - Development of medical systems, diseases, UI/UX interfaces
