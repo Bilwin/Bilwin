@@ -34,17 +34,6 @@
     - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
     - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
 
-- [Runaway 17](https://github.com/Bilwin/Runaway-17)
-  - Head developer, organising work with other developers and developing modules for SE 2013
-
-- [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
-  - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
-    - Modules for Advanced Medical System
-    - User Interface
-    - Gas zones
-    - Reworked engine functions using debug.getregistry
-    - And a lot of small scripts/plugins
-
 - [SV HL2 RP](https://vk.com/sv_servers)
   - Plugins developer, such as Civil Protection systems:
     - Protection Teams
@@ -62,6 +51,17 @@
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 
 # 🔑 Contributions
+- [Runaway 17](https://github.com/Bilwin/Runaway-17)
+  - Head developer, organising work with other developers and developing modules for SE 2013
+
+- [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
+  - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
+    - Modules for Advanced Medical System
+    - User Interface
+    - Gas zones
+    - Reworked engine functions using debug.getregistry
+    - And a lot of small scripts/plugins
+
 - gmod.delta
   - Coordination/Organisation of further developments
 
