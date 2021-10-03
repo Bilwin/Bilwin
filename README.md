@@ -26,6 +26,9 @@
     - Squads
     - PDA
 
+- [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
+  - Project maintainer, lead developer
+
 - [Renewed Networks](https://discord.gg/8zXbcQx)
   - Founder, Head Developer
   - [Renewed Networks s&dev founder](https://sbox.facepunch.com/dev/rnetworks/)
