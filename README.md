@@ -12,6 +12,12 @@
 - VK: https://vk.com/bilwin <br>
 
 # 💼 Projects
+- [Renewed Networks](https://github.com/renewed-networks)
+  - Founder, Head Developer
+  - [Renewed Networks s&dev founder](https://sbox.facepunch.com/dev/rnetworks/)
+  - [Renewed Engine lead developer](https://sbox.facepunch.com/dev/rnetworks/renewedengine)
+    - A Half-Life 2 Beta based roleplay framework, created for s&box
+
 - [The Alium](https://steamcommunity.com/groups/thealium)
   - Head developing gamemodes such as:
     - Classic Jailbreak
@@ -28,12 +34,6 @@
 
 - [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
   - Project maintainer, lead developer
-
-- [Renewed Networks](https://discord.gg/8zXbcQx)
-  - Founder, Head Developer
-  - [Renewed Networks s&dev founder](https://sbox.facepunch.com/dev/rnetworks/)
-  - [Renewed Engine lead developer](https://sbox.facepunch.com/dev/rnetworks/renewedengine)
-    - A Half-Life 2 Beta based roleplay framework, created for s&box
 
 - [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
