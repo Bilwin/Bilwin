@@ -35,6 +35,9 @@
 - [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
   - Project maintainer, lead developer
 
+- [Interval](https://discord.gg/m4MBYzvMTs)
+  - Lead developer
+
 - [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 
