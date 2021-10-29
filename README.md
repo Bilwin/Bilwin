@@ -42,6 +42,9 @@
 - [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 
 # 🔑 Contributions
+- [The Lounge: SCP RP](https://discord.gg/KtJ4Z47)
+  - Code assist, plugins contribution
+
 - [Runaway 17](https://github.com/Bilwin/Runaway-17)
   - Head developer, organising work with other developers and developing modules for SE 2013
 
