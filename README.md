@@ -12,6 +12,9 @@
 - VK: https://vk.com/bilwin <br>
 
 # 💼 Projects
+- [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
+- [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
+
 - [Renewed Networks](https://github.com/renewed-networks)
   - Founder, Head Developer
   - [Renewed Networks s&dev founder](https://sbox.facepunch.com/dev/rnetworks/)
@@ -33,21 +36,12 @@
     - PDA
 
 - [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
-  - Project maintainer, lead developer
+  - Head developer
 
-- [Interval](https://discord.gg/m4MBYzvMTs)
-  - Lead developer
-
-- [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
-- [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
+- [Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs)
+  - Head developer
 
 # 🔑 Contributions
-- [The Lounge: SCP RP](https://discord.gg/KtJ4Z47)
-  - Code assist, plugins contribution
-
-- [Runaway 17](https://github.com/Bilwin/Runaway-17)
-  - Head developer, organising work with other developers and developing modules for SE 2013
-
 - [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
   - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
     - Modules for Advanced Medical System
@@ -56,18 +50,24 @@
     - Reworked engine functions using debug.getregistry
     - And a lot of small scripts/plugins
 
-- gmod.delta
-  - Coordination/Organisation of further developments
+- [Runaway 17](https://github.com/Bilwin/Runaway-17)
+  - Head developer, organising work with other developers and developing modules for SE 2013
 
-- [Werwolf Gaming HLRP](https://steamcommunity.com/groups/werwolfgaming)
+- [Werwolf Gaming: Half-Life 2 Roleplay](https://steamcommunity.com/groups/werwolfgaming)
   - The head development of the Advanced Medical System (AMS) plugin, designed specifically for Werwolf Gaming
+
+- [Lite Network](http://www.lite-network.de/)
+  - Development of network security
+  - Development of medical systems, diseases, UI/UX interfaces
 
 - [Affiliation Networks](https://discord.gg/4MP87tVHWg)
   - Code assist, plugins contribution
 
 - [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
-  - Few scripts
+  - Plugin contributions
 
-- [Lite Network](http://www.lite-network.de/)
-  - Development of all security systems, such as blocking the Client-Sided Lua injections
-  - Development of medical systems, diseases, UI/UX interfaces
+- [Aftermath Half-Life 2 Roleplay](https://discord.gg/tzrNNa8GJW)
+  - Plugin contributions
+
+- [The Lounge: SCP RP](https://discord.gg/KtJ4Z47)
+  - Code reviewing
