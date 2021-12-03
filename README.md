@@ -1,5 +1,3 @@
-![](https://i.imgur.com/SjFC8PJ.gif)
-
 | <a href="https://github.com/Bilwin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilwin&layout=compact&hide_border=true&theme=dark" alt="Bilwin's github stats" /></a> | <a href="https://github.com/Bilwin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilwin&layout=compact&hide_border=true&langs_count=999&theme=dark" /></a> |
 | ------------- | ------------- |
 
