@@ -24,7 +24,6 @@
   - The second representative of the community
   - Head developing gamemodes such as:
     - Classic Jailbreak
-    - Classic Breach (Private)
     - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
     - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
 
@@ -38,16 +37,11 @@
 # 🔑 Contributions
 - [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
   - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
-    - Modules for Advanced Medical System
-    - User Interface
-    - Gas zones
-    - Reworked engine functions using debug.getregistry
-    - And a lot of small scripts/plugins
+    - Huge plugins and heavy framework editing/contributing
 
 - [Runaway 17](https://github.com/Bilwin/Runaway-17)
   - Founder
   - Head developer
-  - Developing organisation
 
 - [Werwolf Gaming: Half-Life 2 Roleplay](https://steamcommunity.com/groups/werwolfgaming)
   - The head development of the Advanced Medical System (AMS) plugin, designed specifically for Werwolf Gaming
