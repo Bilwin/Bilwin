@@ -10,58 +10,62 @@
 - VK: https://vk.com/bilwin <br>
 
 # 💼 Projects
-- [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
-- [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
+- ## [My steam workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)
+- ## [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
+- ## [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 
-- [Renewed Networks](https://github.com/renewed-networks)
+- ## [Renewed Networks](https://github.com/renewed-networks)
   - Founder
   - Head developer
   - [Renewed Networks s&dev founder](https://sbox.facepunch.com/dev/rnetworks/)
   - [Renewed Engine lead developer](https://sbox.facepunch.com/dev/rnetworks/renewedengine)
     - A Half-Life 2 Beta based roleplay framework, created for s&box
+  - Renewed Games lead developer
+  - NetOS.js developer, maintainer of NetOS.py
+  - rnlib lead developer & maintainer
+  - SCP: Blitz lead developer
+  - SCP: Blitz (s&box) lead developer
+  - Prospekt maintainer
+  - Runaway 17 lead developer
 
-- [The Alium](https://steamcommunity.com/groups/thealium)
+- ## [The Alium](https://steamcommunity.com/groups/thealium)
   - The second representative of the community
   - Head developing gamemodes such as:
     - Classic Jailbreak
     - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
     - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
+    - [Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)
 
-- [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
+- ## [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
   - The second representative of the community
   - Head developer
 
-- [Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs)
+- ## [Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs)
   - Head developer
 
 # 🔑 Contributions
-- [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
+- ## [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
   - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
-    - Huge plugins and heavy framework editing/contributing
+    - Huge paid plugins and heavy framework editing
 
-- [Runaway 17](https://github.com/Bilwin/Runaway-17)
-  - Founder
-  - Head developer
-
-- [Werwolf Gaming: Half-Life 2 Roleplay](https://steamcommunity.com/groups/werwolfgaming)
+- ## [Werwolf Gaming: Half-Life 2 Roleplay](https://steamcommunity.com/groups/werwolfgaming)
   - The head development of the Advanced Medical System (AMS) plugin, designed specifically for Werwolf Gaming
 
-- [Lite Network](http://www.lite-network.de/)
-  - Development of network security
+- ## [Lite Network](http://www.lite-network.de/)
   - Development of medical systems, diseases, UI/UX interfaces
 
-- [Affiliation Networks](https://discord.gg/4MP87tVHWg)
+- ## [Affiliation Networks](https://discord.gg/4MP87tVHWg)
   - Code assist
-  - Plugins contribution
+  - Non-Paid plugins contribution
 
-- [SV HL2 RP](https://vk.com/sv_servers)
-  - Plugins contribution
+- ## [SV HL2 RP](https://vk.com/sv_servers)
+  - Non-Paid plugins contribution
 
-- [Aftermath Half-Life 2 Roleplay](https://discord.gg/tzrNNa8GJW)
-  - Plugins contribution
+- ## [Aftermath Half-Life 2 Roleplay](https://discord.gg/tzrNNa8GJW)
+  - Paid plugins contribution
 
-- [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
-  - Plugins contribution
+- ## [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
+  - Non-Paid plugins contribution
 
-- [The Lounge: SCP RP](https://discord.gg/KtJ4Z47)
+- ## [The Lounge: SCP RP](https://discord.gg/KtJ4Z47)
   - Code reviewing
