@@ -10,9 +10,9 @@
 - VK: https://vk.com/bilwin <br>
 
 # 💼 Projects
+- ## [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 - ## [My steam workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)
 - ## [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
-- ## [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
 
 - ## [Renewed Networks](https://github.com/renewed-networks)
   - Founder
@@ -36,14 +36,14 @@
     - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
     - [Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)
 
-- ## [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
-  - The second representative of the community
-  - Head developer
-
 - ## [Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs)
   - Head developer
 
 # 🔑 Contributions
+- ## [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
+  - The second representative of the community
+  - Head developer
+
 - ## [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
   - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
     - Huge paid plugins and heavy framework editing
