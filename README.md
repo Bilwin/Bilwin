@@ -1,71 +1,32 @@
-| <a href="https://github.com/Bilwin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilwin&layout=compact&hide_border=true&theme=dark" alt="Bilwin's github stats" /></a> | <a href="https://github.com/Bilwin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilwin&layout=compact&hide_border=true&langs_count=999&theme=dark" /></a> |
-| ------------- | ------------- |
+## projects
+- **[renewed.network](https://renewed.network) — founder**
+- **[Public Helix framework plugins](https://github.com/Bilwin/helix-plugins) — creator**
+- **[GmodScripts](https://github.com/Bilwin/gmod-scripts) — creator**
+- **[My steam workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/) — author**
+- **[rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112) — author**
+- **[The Alium](https://steamcommunity.com/groups/thealium) — discord admin and steam moderator**
+- **[Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs) — head developer**
+- **Reunited Gaming — head developer (resigned)**
 
-# 📫 Contacts
-- Discord: Bilwin#7777 <br>
-- E-Mail: me@bilw.in <br>
-- Steam: https://steamcommunity.com/id/bilwin/ <br>
-- Telegram: https://t.me/bilwin <br>
-- YouTube: https://vk.cc/c1fIiK <br>
-- VK: https://vk.com/bilwin <br>
+## contributions
+- **[SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z) — gamemode creation and scp:lc overhaul**
+- **[Werwolf Gaming HL2 RP](https://steamcommunity.com/groups/werwolfgaming) — the head development of the paid Advanced Medical System (AMS) plugin**
+- **[Lite Network](http://www.lite-network.de/) — development of medical systems, diseases, UI/UX interfaces**
+- **[Affiliation Networks](https://discord.gg/4MP87tVHWg) — code assist, paid plugins contribution**
+- **[SV HL2 RP](https://vk.com/sv_servers) — paid plugins contribution**
+- **[Aftermath HL2 RP](https://discord.gg/tzrNNa8GJW) — paid plugins contribution**
+- **[TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT) — paid plugins contribution**
+- **[The Lounge: SCP RP](https://discord.gg/KtJ4Z47) — code reviewing**
+- **[Flux: Reborn](https://github.com/renewed-networks/flux-reborn) — v0.8.1 Flux framework kernel revision/fix**
+- **[Helix Framework](https://gethelix.co/) — [open-source plugins contribution](https://github.com/Bilwin/helix-plugins)**
+- **[Axio²](https://discord.gg/fgaFeThR63) — S.T.A.L.K.E.R. [menu](https://media.discordapp.net/attachments/909664523940663336/909682408067055686/unknown.png?width=1192&height=670) assist**
+- **[s&box](https://sbox.facepunch.com/) — [just issue](https://github.com/Facepunch/sbox-issues/issues/601)**
 
-# 💼 Projects
-- ## [Public Helix framework plugins](https://github.com/Bilwin/helix-plugins)
-- ## [My steam workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)
-- ## [rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)
-
-- ## [Renewed Networks](https://github.com/renewed-networks)
-  - Founder
-  - Head developer
-  - [Renewed Networks s&dev founder](https://sbox.facepunch.com/dev/rnetworks/)
-  - [Renewed Engine lead developer](https://sbox.facepunch.com/dev/rnetworks/renewedengine)
-    - A Half-Life 2 Beta based roleplay framework, created for s&box
-  - Renewed Games lead developer
-  - NetOS.js developer, maintainer of NetOS.py
-  - rnlib lead developer & maintainer
-  - SCP: Blitz lead developer
-  - SCP: Blitz (s&box) lead developer
-  - Prospekt maintainer
-  - Runaway 17 lead developer
-
-- ## [The Alium](https://steamcommunity.com/groups/thealium)
-  - The second representative of the community
-  - Head developing gamemodes such as:
-    - Classic Jailbreak
-    - [Judge Alium](https://github.com/Bilwin/JudgeAlium)
-    - [Hillmons Island](https://github.com/Bilwin/Hillmons-Island)
-    - [Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)
-
-- ## [Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs)
-  - Head developer
-
-# 🔑 Contributions
-- ## [SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z)
-  - The second representative of the community
-  - Head developer
-
-- ## [Reunited Gaming](https://www.reunitedgaming.nn.pe/forums/)
-  - Head developer, development of all systems related to the 1.07/1.08/1.08.01 version, like:
-    - Huge paid plugins and heavy framework editing
-
-- ## [Werwolf Gaming: Half-Life 2 Roleplay](https://steamcommunity.com/groups/werwolfgaming)
-  - The head development of the Advanced Medical System (AMS) plugin, designed specifically for Werwolf Gaming
-
-- ## [Lite Network](http://www.lite-network.de/)
-  - Development of medical systems, diseases, UI/UX interfaces
-
-- ## [Affiliation Networks](https://discord.gg/4MP87tVHWg)
-  - Code assist
-  - Non-Paid plugins contribution
-
-- ## [SV HL2 RP](https://vk.com/sv_servers)
-  - Non-Paid plugins contribution
-
-- ## [Aftermath Half-Life 2 Roleplay](https://discord.gg/tzrNNa8GJW)
-  - Paid plugins contribution
-
-- ## [TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT)
-  - Non-Paid plugins contribution
-
-- ## [The Lounge: SCP RP](https://discord.gg/KtJ4Z47)
-  - Code reviewing
+## contacts
+- **[discord: Bilwin#7777](https://discord.gg/4MBuAKJGYR)**
+- **[e-mail: me@bilw.in](mailto://me@bilw.in)**
+- **[gmodstore: bilwin](https://www.gmodstore.com/users/76561198799754743)**
+- **[telegram: bilwin](https://t.me/bilwin)**
+- **[vk.com: bilwin](https://vk.com/bilwin)**
+- **[steam: bilwin](https://steamcommunity.com/id/bilwin/)**
+- **[youtube](https://vk.cc/c1fIiK)**
