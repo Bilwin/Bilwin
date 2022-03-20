@@ -23,7 +23,7 @@
 - **[s&box](https://sbox.facepunch.com/) — [just issue](https://github.com/Facepunch/sbox-issues/issues/601)**
 
 ## contacts
-- **[discord: Bilwin#7777](https://discord.gg/4MBuAKJGYR)**
+- **[discord: Bilwin#5271](https://discord.gg/4MBuAKJGYR)**
 - **[e-mail: me@bilw.in](mailto://me@bilw.in)**
 - **[gmodstore: bilwin](https://www.gmodstore.com/users/76561198799754743)**
 - **[telegram: bilwin](https://t.me/bilwin)**
