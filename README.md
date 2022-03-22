@@ -4,7 +4,7 @@
 - **[GmodScripts](https://github.com/Bilwin/gmod-scripts) — creator**
 - **[My steam workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/) — author**
 - **[rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112) — author**
-- **[The Alium](https://steamcommunity.com/groups/thealium) — discord admin and steam moderator**
+- **[The Alium](https://steamcommunity.com/groups/thealium) — gamemodes contributor**
 - **[Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs) — head developer**
 - **Reunited Gaming — head developer (resigned)**
 
