@@ -1,5 +1,5 @@
 ## projects
-- **[renewed.network](https://renewed.network) — founder**
+- **[rndevs.online](https://rndevs.online) — founder**
 - **[Public Helix framework plugins](https://github.com/Bilwin/helix-plugins) — creator**
 - **[GmodScripts](https://github.com/Bilwin/gmod-scripts) — creator**
 - **[My steam workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/) — author**
