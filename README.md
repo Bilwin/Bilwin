@@ -1,6 +1,6 @@
 ## projects
-- **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)**
 - **[Random GLua Scripts](https://github.com/Bilwin/gmod-scripts)**
+- **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)**
 - **[Public Helix Plugins](https://github.com/Bilwin/helix-plugins)**
 - **[rndevs.online](https://rndevs.online)**
 - **[rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)**
@@ -22,6 +22,6 @@
 - **[SV HL2 RP](https://vk.com/sv_servers) — [(non)](https://github.com/Bilwin/helix-plugins/tree/main/.unpaid/sv-hl2rp) paid development**
 
 ## contacts
-- **[discord: Bilwin#7777](https://discord.gg/4MBuAKJGYR)**
+- **[discord: Bilwin#7777](https://discord.com/users/389046554339704832)**
 - **[telegram: bilwin](https://t.me/bilwin)**
-- **[steam: bilwin](https://steamcommunity.com/id/bilwin/)**
+- **[steam: bilwin](https://steamcommunity.com/profiles/76561198799754743)**
