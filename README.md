@@ -2,8 +2,7 @@
 - **[Random GLua Scripts](https://github.com/Bilwin/gmod-scripts)**
 - **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)**
 - **[Public Helix Plugins](https://github.com/Bilwin/helix-plugins)**
-- **[rndevs.online](https://rndevs.online)**
-- **[rp_city34_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2549272112)**
+- **[rndevs.online](https://discord.gg/4MBuAKJGYR)**
 
 ## contributions
 - **[TPTD: The Path Through the Darkness](https://discord.gg/WAQzTGZamT) — (non) paid development**
