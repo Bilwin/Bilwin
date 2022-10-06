@@ -14,13 +14,17 @@
 - **[The Lounge: SCP RP](https://discord.gg/KtJ4Z47) — enthusiast-level contributions**
 - **[SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z) — enthusiast-level contributions**
 - **[Werwolf Gaming HL2 RP](https://steamcommunity.com/groups/werwolfgaming) — paid development**
+- **[nanos world](https://nanos.world) — enthusiast-level contributions**
 - **[The Alium](https://steamcommunity.com/groups/thealium) — enthusiast-level contributions**
+- **[RG Studio](https://vk.com/rosegoldstudio) — enthusiast-level contributions**
 - **[Affiliation Networks](https://discord.gg/4MP87tVHWg) — paid development**
 - **[Aftermath HL2 RP](https://discord.gg/tzrNNa8GJW) — paid development**
 - **[Axio²](https://discord.gg/fgaFeThR63) — enthusiast-level contributions**
 - **[SV HL2 RP](https://vk.com/sv_servers) — [(non)](https://github.com/Bilwin/helix-plugins/tree/main/.unpaid/sv-hl2rp) paid development**
+- **[rp_interval](https://steamcommunity.com/sharedfiles/filedetails/?id=2862487762) — scripts and level design**
 
 ## contacts
 - **[discord: Bilwin#7777](https://discord.com/users/389046554339704832)**
 - **[telegram: bilwin](https://t.me/bilwin)**
 - **[steam: bilwin](https://steamcommunity.com/profiles/76561198799754743)**
+- **[gmodstore](https://www.gmodstore.com/users/76561198799754743)**
