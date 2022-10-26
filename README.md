@@ -21,6 +21,8 @@
 - **[Aftermath HL2 RP](https://discord.gg/tzrNNa8GJW) — paid development**
 - **[Axio²](https://discord.gg/fgaFeThR63) — enthusiast-level contributions**
 - **[SV HL2 RP](https://vk.com/sv_servers) — [(non)](https://github.com/Bilwin/helix-plugins/tree/main/.unpaid/sv-hl2rp) paid development**
+- **[External Gaming](https://discord.gg/ZyyGyD9EDE) — paid development**
+- **[Aleph: Roleplay](https://discord.gg/QcY8NDUhHP) — paid development**
 - **[rp_interval](https://steamcommunity.com/sharedfiles/filedetails/?id=2862487762) — scripts and level design**
 
 ## contacts
