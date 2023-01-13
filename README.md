@@ -9,7 +9,7 @@
 - **[Lite Network](http://www.lite-network.de/) — enthusiast-level contributions (plugins & ui/ux)**
 - **[Interval: Half-Life 2 Roleplay](https://discord.gg/m4MBYzvMTs) — enthusiast-level development**
 - **Reunited Gaming — enthusiast-level development (paid)**
-- **[Flux: Reborn](https://github.com/renewed-networks/flux-reborn) — v0.8.1 Flux framework kernel revision/fix**
+- **[Flux: Reborn](https://github.com/rndevs-online/flux-reborn) — v0.8.1 Flux framework kernel revision/fix**
 - **[Helix Framework](https://gethelix.co/) — [open-source plugins contribution](https://github.com/Bilwin/helix-plugins)**
 - **[The Lounge: SCP RP](https://discord.gg/KtJ4Z47) — enthusiast-level contributions**
 - **[SCP: Snow Seazon](https://discord.gg/qe6Brr6y7z) — enthusiast-level contributions**
