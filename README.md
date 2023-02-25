@@ -17,6 +17,7 @@
 - **[nanos world](https://nanos.world) — enthusiast-level contributions**
 - **[The Alium](https://steamcommunity.com/groups/thealium) — enthusiast-level contributions**
 - **[RG Studio](https://vk.com/rosegoldstudio) — enthusiast-level contributions**
+- **[rp_nightfall_c20_v1a](https://steamcommunity.com/sharedfiles/filedetails/?id=2932099312) — paid development**
 - **[Affiliation Networks](https://discord.gg/4MP87tVHWg) — paid development**
 - **[Aftermath HL2 RP](https://discord.gg/tzrNNa8GJW) — paid development**
 - **[Axio²](https://discord.gg/fgaFeThR63) — enthusiast-level contributions**
