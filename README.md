@@ -1,3 +1,7 @@
+<a href="https://github.com/Bilwin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilwin&count_private=true&theme=transparent&show_icons=true" />
+</a>
+
 ## projects
 - **[Random GLua Scripts](https://github.com/Bilwin/gmod-scripts)**
 - **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)**
