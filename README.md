@@ -2,7 +2,7 @@
 - **[Random GLua Scripts](https://github.com/Bilwin/gmod-scripts)**
 - **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)**
 - **[Public Helix Plugins](https://github.com/Bilwin/helix-plugins)**
-- **[rndevs.online](https://discord.gg/4MBuAKJGYR)**
+- **[RN Collective](https://discord.gg/4MBuAKJGYR)**
 
 ## contributions
 <details> 
