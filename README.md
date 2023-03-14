@@ -6,25 +6,6 @@
 
 ## contributions
 <details> 
-  <summary><b>Lite Network — enthusiast-level contributions</b></summary>
-	<br>
-	<ul>
-    <li><a href="https://youtu.be/lAbGmLs4v0I"><b>Diseases</b></a></li>
-    <li><a href="https://www.youtube.com/watch?v=14Ru_s0jW5g"><b>ATM</b></a></li>
-	</ul>
-</details>
-<details> 
-  <summary><b>Reunited Gaming — lead developer</b></summary>
-	<br>
-	<ul>
-    <li><a href="https://youtu.be/N2hzTPpXbaE"><b>Gas Zones</b></a></li>
-    <li><a href="https://youtu.be/q_Y54G96f7o"><b>Scanners</b></a></li>
-    <li><a href="https://youtu.be/GYWcbPQDWOU"><b>Replics</b></a></li>
-    <li><a href="https://youtu.be/OSb_lm22xrA"><b>Leaning</b></a></li>
-    <li><a href="https://youtu.be/e1Cnt5d6qAA"><b>Radio</b></a></li>
-	</ul>
-</details>
-<details> 
   <summary><b>SCP: Snow Seazon — enthusiast-level contributions</b></summary>
 	<br>
 	<ul>
@@ -45,12 +26,31 @@
 	</ul>
 </details>
 <details> 
+  <summary><b>Lite Network — enthusiast-level contributions</b></summary>
+	<br>
+	<ul>
+    <li><a href="https://youtu.be/lAbGmLs4v0I"><b>Diseases</b></a></li>
+    <li><a href="https://www.youtube.com/watch?v=14Ru_s0jW5g"><b>ATM</b></a></li>
+	</ul>
+</details>
+<details> 
   <summary><b>Axio² — enthusiast-level contributions</b></summary>
 	<br>
 	<ul>
     <li><a href="https://youtu.be/2vruOpx3TQY"><b>UI Demo #1</b></a></li>
     <li><a href="https://youtu.be/0W_8yCbvbto"><b>UI Demo #2</b></a></li>
     <li><a href="https://youtu.be/PpOOd2TFH24"><b>UI Demo #3</b></a></li>
+	</ul>
+</details>
+<details> 
+  <summary><b>Reunited Gaming — lead developer</b></summary>
+	<br>
+	<ul>
+    <li><a href="https://youtu.be/N2hzTPpXbaE"><b>Gas Zones</b></a></li>
+    <li><a href="https://youtu.be/q_Y54G96f7o"><b>Scanners</b></a></li>
+    <li><a href="https://youtu.be/GYWcbPQDWOU"><b>Replics</b></a></li>
+    <li><a href="https://youtu.be/OSb_lm22xrA"><b>Leaning</b></a></li>
+    <li><a href="https://youtu.be/e1Cnt5d6qAA"><b>Radio</b></a></li>
 	</ul>
 </details>
 <details> 
