@@ -95,7 +95,9 @@
 ---
 - **[Helix Advanced Medical System](https://www.youtube.com/watch?v=F2AV8MSb0VQ) — private plugin creator**
 - **[Helix Ammo Mags (EFT)](https://youtu.be/vj3_ZAl0qus) — paid development**
+- **[Helix Metro 2033 UI](https://youtu.be/AeDe-K-LW_Y) — paid development**
 - **[Helix Butchering](https://youtu.be/Z4j3wDP_CnI) — public plugin creator**
+- **[Helix Gas Areas](https://youtu.be/PFx5zL-Uicw) — paid development**
 - **[Helix Revive](https://youtu.be/B5PJkPRaw_8) — paid development**
 
 ## contacts
