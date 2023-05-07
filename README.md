@@ -88,7 +88,7 @@
 - **[Aftermath HL2 RP](https://discord.gg/tzrNNa8GJW) — paid development**
 - **[rp_downtown_v2](https://www.youtube.com/watch?v=OzyxzBSr_IA) — paid development**
 - **[SWRP Car Dealer](https://www.youtube.com/watch?v=J-nDAb5DA3E) — paid development**
-- **[SV HL2 RP](https://vk.com/sv_servers) — [(non)](https://github.com/Bilwin/helix-plugins/tree/main/.unpaid/sv-hl2rp) paid development**
+- **[SV HL2 RP](https://vk.com/sv_servers) — [(non)](https://github.com/Bilwin/helix-plugins/tree/main/.deprecated/sv-hl2rp) paid development**
 - **[External Gaming](https://discord.gg/ZyyGyD9EDE) — paid development**
 - **[Aleph: Roleplay](https://discord.gg/QcY8NDUhHP) — paid development**
 - **[rp_interval](https://steamcommunity.com/sharedfiles/filedetails/?id=2862487762) — scripts and level design**
