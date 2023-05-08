@@ -77,7 +77,7 @@
 - **[Helix Framework](https://gethelix.co/) — [open-source plugins contribution](https://github.com/Bilwin/helix-plugins)**
 - **[The Lounge: SCP RP](https://discord.gg/KtJ4Z47) — enthusiast-level contributions**
 - **[The Lost Summit](https://www.youtube.com/watch?v=b345Rcwi2E0) — Source 2013 SDK based mod**
-- **[Werwolf Gaming HL2 RP](https://steamcommunity.com/groups/werwolfgaming) — paid development**
+- **[Werewolf Gaming HL2 RP](https://steamcommunity.com/groups/werwolfgaming) — paid development**
 - **[nanos world](https://nanos.world) — enthusiast-level contributions**
 - **[HL2 RP Combine Locks](https://youtu.be/aHrSYNqH7Zc) — paid development**
 - **[The Alium](https://steamcommunity.com/groups/thealium) — enthusiast-level contributions**
