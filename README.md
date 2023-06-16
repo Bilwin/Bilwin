@@ -96,6 +96,7 @@
 ---
 - **[Helix Advanced Medical System](https://www.youtube.com/watch?v=F2AV8MSb0VQ) — private plugin creator**
 - **[Helix HL2 RP Socio-Status](https://youtu.be/LT5sg9MAcJs) — paid development**
+- **[Helix Metro 2033 Crafting](https://youtu.be/yXWb6n1u-mM) — paid development**
 - **[Helix Ammo Mags (EFT)](https://youtu.be/vj3_ZAl0qus) — paid development**
 - **[Helix Metro 2033 UI](https://youtu.be/AeDe-K-LW_Y) — paid development**
 - **[Helix Butchering](https://youtu.be/Z4j3wDP_CnI) — public plugin creator**
