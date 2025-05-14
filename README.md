@@ -1,9 +1,9 @@
 ![screen1](https://i.imgur.com/UndxdZf.png)
 ## projects
 - **[Random GLua Scripts](https://github.com/Bilwin/gmod-scripts)**
-- **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles/)**
+- **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles)**
 - **[Public Helix Plugins](https://github.com/Bilwin/helix-plugins)**
-- **[RN Collective](https://discord.gg/4MBuAKJGYR)**
+- **[RN Development](https://rn-collective.com)**
 
 ## contributions
 <details> 
