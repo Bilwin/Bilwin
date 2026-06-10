@@ -1,9 +1,9 @@
 ![screen1](https://i.imgur.com/UndxdZf.png)
 ## projects
+- **[RN Collective Solutions Ltd.](https://rn-collective.com)**
 - **[Random GLua Scripts](https://github.com/Bilwin/gmod-scripts)**
 - **[My Steam Workshop](https://steamcommunity.com/id/bilwin/myworkshopfiles)**
 - **[Public Helix Plugins](https://github.com/Bilwin/helix-plugins)**
-- **[RN Development](https://rn-collective.com)**
 
 ## contributions
 <details> 
@@ -94,6 +94,7 @@
 - **[External Gaming](https://discord.gg/ZyyGyD9EDE) — paid development**
 - **[Aleph: Roleplay](https://discord.gg/QcY8NDUhHP) — paid development**
 - **[rp_interval](https://steamcommunity.com/sharedfiles/filedetails/?id=2862487762) — scripts and level design**
+- etc.
 ---
 - **[Helix Advanced Medical System](https://www.youtube.com/watch?v=F2AV8MSb0VQ) — private plugin creator**
 - **[Helix HL2 RP Socio-Status](https://youtu.be/LT5sg9MAcJs) — paid development**
@@ -103,9 +104,10 @@
 - **[Helix Butchering](https://youtu.be/Z4j3wDP_CnI) — public plugin creator**
 - **[Helix Gas Areas](https://youtu.be/PFx5zL-Uicw) — paid development**
 - **[Helix Revive](https://youtu.be/B5PJkPRaw_8) — paid development**
+- etc.
 
 ## contacts
-- **[telegram: bilwin](https://t.me/bilwin)**
+- **[email: jobs@bilw.in](mailto://me@bilw.in)** (preferable)
 - **[discord: bilwin](https://discord.com/users/389046554339704832)**
 - **[steam: bilwin](https://steamcommunity.com/profiles/76561198799754743)**
 - **[gmodstore](https://www.gmodstore.com/users/76561198799754743)**
