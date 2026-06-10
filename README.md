@@ -107,7 +107,7 @@
 - etc.
 
 ## contacts
-- **[email: jobs@bilw.in](mailto://me@bilw.in)** (preferable)
+- **[email: jobs@bilw.in](mailto://jobs@bilw.in)** (preferable)
 - **[discord: bilwin](https://discord.com/users/389046554339704832)**
 - **[steam: bilwin](https://steamcommunity.com/profiles/76561198799754743)**
 - **[gmodstore](https://www.gmodstore.com/users/76561198799754743)**
